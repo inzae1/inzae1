@@ -4,19 +4,15 @@ I mainly use Django and Spring, but sometimes I also use NestJS and NodeJS.
 
 <br>
 
-### ✍️ Skills
+### ✍️ Skills  
 
-
-
-
+  
 
 __Languages__
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 
-
-
-
+  
 
 __Library & Framework__
 
@@ -24,9 +20,7 @@ __Library & Framework__
 
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
 
-
-
-
+  
 
 __Tools__
 
