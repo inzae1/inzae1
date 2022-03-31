@@ -6,7 +6,7 @@ I mainly use Django and Spring, but sometimes I also use NestJS and NodeJS.
 
 <br>
 
-### ✍️ Skills  
+### ✍️ Skills
 
 __Languages__
 
